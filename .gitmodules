@@ -1,0 +1,6 @@
+[submodule "git2a"]
+	path = git2
+	url = https://github.com/Stupid-Git/git2.git
+[submodule "git1a"]
+	path = git1
+	url = https://github.com/Stupid-Git/git1.git

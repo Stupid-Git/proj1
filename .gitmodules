@@ -1,6 +1,0 @@
-[submodule "git1"]
-	path = git1
-	url = ../git1
-[submodule "git2"]
-	path = git2
-	url = j:/gits/git2

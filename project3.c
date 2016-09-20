@@ -4,5 +4,5 @@
 
 int main()
 {
-    print("file2.c: Hello world\n");	
+    print("project3.c: Hello world\n");	
 }
